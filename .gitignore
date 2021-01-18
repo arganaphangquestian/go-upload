@@ -1,0 +1,5 @@
+# Gitignore
+# Build
+build
+# Storage
+storage
