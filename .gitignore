@@ -1,5 +1,5 @@
 # Gitignore
 # Build
-build
+/build
 # Storage
-storage
+/storage
